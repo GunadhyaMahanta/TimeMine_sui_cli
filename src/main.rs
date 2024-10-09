@@ -202,8 +202,8 @@ async fn main() -> Result<(), anyhow::Error> {
     println!("---------------Balance------------------");
 
     let suibalance=conf::get_coinbalance(&sui_client, &address,None,9.0);
-    let tikbalance=conf::get_coinbalance(&sui_client, &address,Some(miner.get_coin_type().to_string()) ,12.0);
-    println!("{:?} TIK",tikbalance.await?);
+    let timebalance=conf::get_coinbalance(&sui_client, &address,Some(miner.get_coin_type().to_string()) ,12.0);
+    println!("{:?} TIME",timebalance.await?);
     println!("{:?} SUI",suibalance.await?);
     println!("----------------------------------------");
    
