@@ -42,21 +42,21 @@ impl OnlineData {
 }
 
 pub const  TESTNET_DATA: OnlineData = OnlineData {
-    package_id: "0xaba2be6103e8d38d38173648e527d0ecf20adf3ad989905f549cf7332fd5e7a1",
-    treasury_id: "0x83ba2a98df2ca8c4f07710c2d8ecb54d7397ee24a7f48036b8b053d3bcccd899",
-    miner_id: "0x4de8ffe8958bb8b6a1cc4d3100feb34fd0b380a00ca2ec9b6356fe1636b88d46",
-    epochs_id: "0x14fa8410656a176ed1e67f2dd4339e9e498dcb1cff76f2c399b780335bbb3f3e",
-    coin_type:"0xaba2be6103e8d38d38173648e527d0ecf20adf3ad989905f549cf7332fd5e7a1::tikcoin::TIKCOIN",
+    package_id: "0x26a8a8fe46ae9b641c10381f2101739233d7c69d4c423fba71d2a8a156c7cbc0",
+    treasury_id: "0x7ee5924b1a5033e284b6be24f1b16bd2404f53d03dd15fa43553fffe5f9f9e7b",
+    miner_id: "0x7600ad890fba4486603e57c3a980c215350c5f0982c302528c55e4ad9a1a5900",
+    epochs_id: "0x90d84d95a183f5fe21b01a95193c497f99758c44208e9d176d7f80f00a78dfe2",
+    coin_type:"0x26a8a8fe46ae9b641c10381f2101739233d7c69d4c423fba71d2a8a156c7cbc0::timecoin::TIMECOIN",
     init_ver:&34052830,
 };
 
 
 pub const  MAINNET_DATA: OnlineData = OnlineData {
-    package_id: "0xaba2be6103e8d38d38173648e527d0ecf20adf3ad989905f549cf7332fd5e7a1",
-    treasury_id: "0x77e2af16400ddf8d693fa34da03c2c9eaba8a2754191fac397d748aaf56cae07",
-    miner_id: "0x3219c0db90e57fb9d5be377d34302170e9092628bdeaefefe3fbe64f93099664",
-    epochs_id: "0x643db1d976171ecf577155e8258f89f7d1e9013e2bb468f1918703ea6426705f",
-    coin_type:"0xb85d3853c7a33cf6cc243d5ae748b3a85ccc0ea2142db680aeedfa079b19fe13::tikcoin::TIKCOIN",
+    package_id: "0x26a8a8fe46ae9b641c10381f2101739233d7c69d4c423fba71d2a8a156c7cbc0",
+    treasury_id: "0x7ee5924b1a5033e284b6be24f1b16bd2404f53d03dd15fa43553fffe5f9f9e7b",
+    miner_id: "0x7600ad890fba4486603e57c3a980c215350c5f0982c302528c55e4ad9a1a5900",
+    epochs_id: "0x90d84d95a183f5fe21b01a95193c497f99758c44208e9d176d7f80f00a78dfe2",
+    coin_type:"0x26a8a8fe46ae9b641c10381f2101739233d7c69d4c423fba71d2a8a156c7cbc0::timecoin::TIMECOIN",
     init_ver:&106971063,
 };
 
