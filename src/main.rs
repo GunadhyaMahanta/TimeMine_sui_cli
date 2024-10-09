@@ -137,7 +137,7 @@ async fn main() -> Result<(), anyhow::Error> {
 
     let _ = Command::new("cmd").args(&["/c", "cls"]).status();
     println!("");
-    println!("Welcome to $TIME.supply!");
+    println!("Welcome, Its Time to Mine $TIME!");
     println!("Addr:{:?}",address);
    
    let getkey =keystore.get_key(&address);
