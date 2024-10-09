@@ -34,7 +34,7 @@ use crate::{conf, Miner};
             let epochs_o=pt_builder.obj(miner.epochs_obj).expect("Err");
             let clock_o=pt_builder.obj(miner.clock_obj).expect("Err");
 
-            let claim_mod = Identifier::from_str("tikcoin").expect("err");
+            let claim_mod = Identifier::from_str("timecoin").expect("err");
             let claim_function = Identifier::from_str("claim").expect("err"); 
       
             pt_builder.programmable_move_call(
