@@ -10,6 +10,14 @@ Tik died. $TIME Reborn! Its Time To Mine $Time!
 [Telegram](https://t.me/+xIQLofb3wKQ2YjM1)
 [Web mine](https://timemine.life)
 
+
+
+$TIME epoch Genesis timestamp:1728450000
+
+
+
+
+
 # TIME-CLI : TIME Command-line Interface Tool
 
 TIME-cli is a simple command line tool that you can use to mine, check rewards and claim TIME.
