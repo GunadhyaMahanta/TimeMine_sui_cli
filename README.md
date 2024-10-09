@@ -22,17 +22,13 @@ $TIME epoch Genesis timestamp:1728450000
 
 TIME-cli is a simple command line tool that you can use to mine, check rewards and claim TIME.
 
-# Download TIME cli
+# build TIME cli
 
-- <a href="1" target="_blank">Windows</a>
 
    After decompressing the archive, you will get a file named tik.exe. Open the Windows command line tool. Navigate to the current directory, for example.
 
          cd c:\time_windows
     
-
-
-- <a href="2" target="_blank">Linux</a>
 
    After decompressing the archive, you will get a file named TIME.
 
