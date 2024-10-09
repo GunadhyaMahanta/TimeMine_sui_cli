@@ -54,7 +54,7 @@ impl Miner {
         let _address: SuiAddress = (&kp.public()).into();
        
         println!("--------------------- Base share: {} Lock days: {} Your share: {} ----------------------",conf::BASE_SHARE,lock_days,conf::BASE_SHARE+lock_days);
-        println!("Everything looks great! Let's Tik !");
+        println!("Everything looks great! Let's Mine !");
         thread::sleep(Duration::from_secs(2));
         let _ = self.set_current_epoch().await;
         let get_epochs_id=self.get_epochs_id();
