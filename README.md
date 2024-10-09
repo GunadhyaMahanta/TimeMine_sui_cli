@@ -146,6 +146,6 @@ Linux:
 
 - build
          
-       git clone https://github.com/tiksupply/TIME-cli
+       git clone https://github.com/GunadhyaMahanta/TimeMine_sui_cli
        cd TIME-cli
        cargo build --release
