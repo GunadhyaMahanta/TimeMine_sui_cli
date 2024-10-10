@@ -47,7 +47,7 @@ pub const  TESTNET_DATA: OnlineData = OnlineData {
     miner_id: "0x7600ad890fba4486603e57c3a980c215350c5f0982c302528c55e4ad9a1a5900",
     epochs_id: "0x90d84d95a183f5fe21b01a95193c497f99758c44208e9d176d7f80f00a78dfe2",
     coin_type:"0x26a8a8fe46ae9b641c10381f2101739233d7c69d4c423fba71d2a8a156c7cbc0::timecoin::TIMECOIN",
-    init_ver:&375820322,
+    init_ver:&375562458,
 };
 
 
@@ -57,7 +57,7 @@ pub const  MAINNET_DATA: OnlineData = OnlineData {
     miner_id: "0x7600ad890fba4486603e57c3a980c215350c5f0982c302528c55e4ad9a1a5900",
     epochs_id: "0x90d84d95a183f5fe21b01a95193c497f99758c44208e9d176d7f80f00a78dfe2",
     coin_type:"0x26a8a8fe46ae9b641c10381f2101739233d7c69d4c423fba71d2a8a156c7cbc0::timecoin::TIMECOIN",
-    init_ver:&375820322,
+    init_ver:&375562458,
 };
 
 pub const EPOCH_REWARD:f64=0.000277_777_778;
