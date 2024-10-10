@@ -1,9 +1,9 @@
-The TIK mainnet genesis is happening on June 10, 2024, at 00:00:00  (UTC). 
+The Time mainnet genesis is happening on June 10, 2024, at 00:00:00  (UTC). 
 
 
 
 
-Tik died. $TIME Reborn! Its Time To Mine $Time!
+Time died. $TIME Reborn! Its Time To Mine $Time!
 
 
 
@@ -25,7 +25,7 @@ TIME-cli is a simple command line tool that you can use to mine, check rewards a
 # build TIME cli
 
 
-   After decompressing the archive, you will get a file named tik.exe. Open the Windows command line tool. Navigate to the current directory, for example.
+   After decompressing the archive, you will get a file named time.exe. Open the Windows command line tool. Navigate to the current directory, for example.
 
          cd c:\time_windows
     
@@ -98,11 +98,11 @@ Linux:
 
 Windows:
 
-       time.exe Import <suiprivate string> 
+       time.exe import --key <suiprivate string> 
 
 Linux:
 
-       ./time Import <suiprivate string>
+       ./time import --key <suiprivate string>
 
 
 # Usage
