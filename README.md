@@ -98,11 +98,11 @@ Linux:
 
 Windows:
 
-       time.exe Import <suiprivate string> 
+       time.exe import --key <suiprivate string> 
 
 Linux:
 
-       ./time Import <suiprivate string>
+       ./time import --key <suiprivate string>
 
 
 # Usage
